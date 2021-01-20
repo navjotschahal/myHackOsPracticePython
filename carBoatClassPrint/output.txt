@@ -1,0 +1,2 @@
+Car with the maximum speed of 151 km/h
+Boat with the maximum speed of 77 knots
