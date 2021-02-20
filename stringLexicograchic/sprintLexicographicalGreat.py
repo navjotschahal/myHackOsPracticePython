@@ -53,7 +53,7 @@ def biggerIsGreater(w: str):
 
 if __name__ == '__main__':
     # fptr = open(os.environ['OUTPUT_PATH'], 'w')
-    # fptr = open('F:\hackerRankPython\stringLexicograchic\sringLexicalgreaterResult.txt', 'w')
+    fptr = open('F:\hackerRankPython\stringLexicograchic\sringLexicalgreaterResult.txt', 'w')
     fptr1 = sys.stdin
     fptr2 = sys.stdout
 
